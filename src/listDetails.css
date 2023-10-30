@@ -1,0 +1,24 @@
+.listContainer{
+    margin-top: 100px;
+}
+.container2{
+    overflow: scroll;
+    width: 70%;
+    height: 60vh;
+    margin: auto;
+    background-color: rgba(247, 245, 245, 0.884);
+}
+.listBox{
+    margin-top: 50px;
+}
+.listBox li{
+    margin-left:300px;
+    list-style-type: style circle;
+    text-align: justify;
+}
+.home{
+    margin-top: 30px;
+}
+h1{
+    margin-top: 50px;
+}

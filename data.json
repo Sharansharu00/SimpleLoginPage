@@ -1,0 +1,80 @@
+{
+  "database": [
+    {
+      "username": "sharan",
+      "password": "sharan@05",
+      "email": "Sharan2252001@gmail.com",
+      "phno": "08489044570",
+      "address": "2-10A, Gnalam poittrai, Anthrapuram (p.o), Gnalam",
+      "nationality": "Indiajrp'",
+      "year": "2021",
+      "id": 1
+    },
+    {
+      "username": "AbinoAmriy",
+      "email": "Amriy@gmail.com",
+      "phno": "9632587410",
+      "address": "Lala street",
+      "nationality": "US",
+      "year": "2022",
+      "id": 2
+    },
+    {
+      "username": "Ajay",
+      "email": "ajay31@gmail.com",
+      "phno": "7894563210",
+      "address": "Avatar Forest street",
+      "nationality": "Avatar ",
+      "year": "2023",
+      "id": 3
+    },
+    {
+      "username": "ShibuKrishnaa",
+      "email": "Shibu@gmail.com",
+      "phno": "9632587410",
+      "address": "BrindhaVanam",
+      "nationality": "India",
+      "year": "2024",
+      "id": 4
+    },
+    {
+      "username": "sharan",
+      "email": "Sharan2252001@gmail.com",
+      "phno": "08489044570",
+      "nationality": "India",
+      "id": 6
+    },
+    {
+      "username": "AbinoAmriy",
+      "email": "Amriy@gmail.com",
+      "phno": "9632587410",
+      "address": "Lala street",
+      "nationality": "US",
+      "id": 7
+    },
+    {
+      "username": "Ajay",
+      "email": "ajay31@gmail.com",
+      "phno": "7894563210",
+      "address": "Avatar Forest street",
+      "nationality": "Avatar ",
+      "id": 8
+    },
+    {
+      "username": "sgahah",
+      "email": "mmmmm",
+      "phno": "sssss",
+      "address": "eeee",
+      "nationality": "eeee",
+      "id": 9
+    },
+    {
+      "username": "ddd",
+      "email": "vvvv",
+      "phno": "vvvvv",
+      "address": "vvvvv",
+      "nationality": "vv",
+      "id": 10
+    }
+  ]
+}
