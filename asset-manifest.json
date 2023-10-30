@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sharansharu00/SimpleLoginPage/static/css/main.7a3045ed.css",
+    "main.js": "/Sharansharu00/SimpleLoginPage/static/js/main.e303ffb7.js",
+    "static/js/787.8f09c630.chunk.js": "/Sharansharu00/SimpleLoginPage/static/js/787.8f09c630.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/Sharansharu00/SimpleLoginPage/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/Sharansharu00/SimpleLoginPage/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/login.avif": "/Sharansharu00/SimpleLoginPage/static/media/login.61a772053c18bdec1505.avif",
+    "static/media/bggg.avif": "/Sharansharu00/SimpleLoginPage/static/media/bggg.8b0411057a6b126e36d4.avif",
+    "index.html": "/Sharansharu00/SimpleLoginPage/index.html",
+    "main.7a3045ed.css.map": "/Sharansharu00/SimpleLoginPage/static/css/main.7a3045ed.css.map",
+    "main.e303ffb7.js.map": "/Sharansharu00/SimpleLoginPage/static/js/main.e303ffb7.js.map",
+    "787.8f09c630.chunk.js.map": "/Sharansharu00/SimpleLoginPage/static/js/787.8f09c630.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3045ed.css",
+    "static/js/main.e303ffb7.js"
+  ]
+}
